@@ -1,6 +1,6 @@
 // para criar uma lista de item aleatório e não der erro, a variável deve-se criada na primeira linha.
 let listaDeNumerosSorteados = [];
-let numeroLimite = 50;
+let numeroLimite = 100;
 let numeroSecreto = gerarNumeroAleatorio();
 let tentativas = 1;
 
